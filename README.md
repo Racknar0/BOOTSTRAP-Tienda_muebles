@@ -54,9 +54,6 @@
 
 -   Clone the repository in your computer.
 -   Navigate to the root folder of the project.
--   Run npm install in your terminal to install the dependencies.
--   Run npm run compilar:sass to compile the sass files.
--   Run npm run build:sass to compile the sass files and watch for changes.
 -   Open the index.html file in your browser.
 -   Enjoy! 🎉
 
